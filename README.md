@@ -17,7 +17,9 @@ To build an automated ETL pipeline using Apache Airflow to process web server lo
 Why This Project?
 - Demonstrates knowledge of ETL principles.
 - Utilizes Python, PostgreSQL, and Airflow, key tools for data engineering.
-- Practical application for log analysis and database management.
+- Practical application for log analysis and database management. 
+
+[Data Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Apache%20Airflow/Build%20a%20DAG%20using%20Airflow/web-server-access-log.txt)
 
 ## Key Features
 1. *Automated ETL Pipeline*: Uses Apache Airflow to automatically process web server logs, transform the data, and load it into a PostgreSQL database.
@@ -26,9 +28,6 @@ Why This Project?
 4. *Data Monitoring*: Airflow logs task execution, providing detailed information for monitoring and debugging.
 5. *Modular & Scalable Design*: The pipeline is designed to be easily extendable and scalable, allowing for future enhancements or additional data sources.
 
-## Data Sources
-Data Preview:  
-[Data Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Apache%20Airflow/Build%20a%20DAG%20using%20Airflow/web-server-access-log.txt)
 
 ## Pipeline Workflows
 
