@@ -35,7 +35,7 @@ The pipeline performs the following tasks:
 4. *Load*: Insert transformed data into a PostgreSQL database.
 
 ## DAG Graph
-
+![DAG Graph](assets/dag_graph.jpeg)
 
 ## Requirements
 
