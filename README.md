@@ -27,8 +27,7 @@ Why This Project?
 5. *Modular & Scalable Design*: The pipeline is designed to be easily extendable and scalable, allowing for future enhancements or additional data sources.
 
 ## Data Sources
-Data Preview:
-![Data Preview](assets/data_preview.png)
+Data Preview:  
 [Data Source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Apache%20Airflow/Build%20a%20DAG%20using%20Airflow/web-server-access-log.txt)
 
 ## Pipeline Workflows
