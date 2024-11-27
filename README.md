@@ -6,8 +6,9 @@ This repository demonstrates an **ETL (Extract, Transform, Load)** pipeline usin
 1. [Project Overview](#project-overview)
 2. [Key Features](#key-features)
 3. [Pipeline Workflows](#pipeline-workflows)
-4. [DAG Graph](#DAG-graphs)
-5. [Requirements](#requirements)
+4. [DAG Graph](#dag-graphs)
+5. [Loaded Data Preview](#loaded-data-Preview)
+6. [Requirements](#requirements)
 
 ## Project Overview
 
@@ -39,6 +40,9 @@ The pipeline performs the following tasks:
 
 ## DAG Graph
 ![DAG Graph](assets/dag_graph.jpeg)
+
+## Loaded Data Preview
+![Databaes Preview](assets/database.png)
 
 ## Requirements
 
